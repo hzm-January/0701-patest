@@ -1,0 +1,14 @@
+target/
+.classpath
+.project
+.settings/
+*.iml
+.idea/
+bin/
+.DS_Store
+.checkstyle
+*.mvn
+*mvnw
+*.cmd
+*.class
+*.kotlin_module
